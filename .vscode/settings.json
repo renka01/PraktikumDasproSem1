@@ -1,0 +1,20 @@
+{
+    "stardew-pets.background": "Snow",
+    "stardew-pets.monsters": false,
+    "stardew-pets.scale": "Medium",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "QUIZ",
+        "JobSheet9",
+        "JobSheet8",
+        "JobSheet7",
+        "JobSheet6",
+        "JobSheet5",
+        "JobSheet3",
+        "JobSheet2",
+        "JobSheet11",
+        "JobSheet1",
+        "JobSheet",
+        "JobSheet12.java"
+    ]
+}
